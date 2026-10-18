@@ -15,8 +15,5 @@ engineering roles starting January 2027.
 - Hybrid BGE-M3 retrieval + cross-encoder re-ranking over 15.5k products: nDCG@10 0.79 vs 0.68 for BM25
 - Distilled a 9B LLM's rankings into a 568M re-ranker: nDCG@10 0.753 → 0.808
 
-### Open source
-- llama.cpp: server slot selection splits decode batches when the KV cache is per-slot (issue coming soon)
-
 ### Contact
 rushilan@usc.edu · [LinkedIn](https://linkedin.com/in/rushil-nair-38a15b234)
