@@ -1,7 +1,7 @@
 # Hi, I'm Rushil
 
-MS CS student at USC, graduating December 2026. I work on making LLMs run fast and well:
-on-device inference, LLM serving, and retrieval. Looking for new-grad ML / inference
+MS CS student at USC, graduating in December 2026. I am curious about making LLMs run fast and well.
+Working on LLM inference, on-device inference, LLM serving, and retrieval. Looking for new-grad ML / inference / applied ai / MLE / SWE(AI/ML)
 engineering roles starting January 2027.
 
 ### Projects
